@@ -1,0 +1,23 @@
+Assignment Report for Reilly Grant
+Assignment: Exam 1
+Produced 2014-05-05 15:42
+Netid: rgrant6 cwid: A20322619
+Course: cs331 (2014-01)  Section: CPS
+
+  Num  QDB Max Score Notes 
+----- ---- --- ----- ----- 
+    1 1001   6     6       
+    2 116b   6     6       
+    3        6     6       
+    4        6     6       
+    5        6     5       
+    6        6     6       
+    7        4     4       
+    8        6     6       
+    9        6     6       
+   10        4     2       
+   11        6     6       
+   12        4     4       
+   13        6     6       
+----- ---- --- ----- ----- 
+Total       72    69       

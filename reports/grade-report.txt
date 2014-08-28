@@ -1,0 +1,29 @@
+Grade Report for Reilly Grant
+Produced 2014-05-13 21:11
+Netid: rgrant6 cwid: A20322619
+Course: cs331 (2014-01)  Section: CPS
+
+                    Assignment   Status Raw Max    Norm Weight  Points 
+------------------------------ -------- --- --- ------- ------ ------- 
+                        Exam 1   Graded  69  72  95.83% 0.2500 23.9583 
+                        Exam 2   Graded  97 110  88.18% 0.2500 22.0455 
+                    Final Exam   Graded 156 182  85.71% 0.2500 21.4286 
+               Linked List Lab   Graded 100 100 100.00% 0.0500  5.0000 
+                  L System Lab   Graded 100 100 100.00% 0.0500  5.0000 
+                   Dequeue Lab   Graded 100 100 100.00% 0.0500  5.0000 
+                 Traversal Lab  Dropped  90 100  90.00% 0.0000  0.0000 
+         Pre Course Assessment   Graded   1   1 100.00% 0.0100  1.0000 
+ Clojure Introduction Activity   Graded   1   1 100.00% 0.0100  1.0000 
+                  Clojure Data   Graded   1   1 100.00% 0.0100  1.0000 
+               Record Activity   Graded   1   1 100.00% 0.0100  1.0000 
+            Recursion Activity Canceled n/a   1     n/a 0.0000  0.0000 
+      Immutable Lists Activity   Graded   1   1 100.00% 0.0100  1.0000 
+        Mutable Lists Activity   Graded   1   1 100.00% 0.0100  1.0000 
+Reversing a Doubly Linked List   Graded   1   1 100.00% 0.0100  1.0000 
+         Vectors (Running Sum)   Graded   1   1 100.00% 0.0100  1.0000 
+               Writing Dequeue   Graded   1   1 100.00% 0.0100  1.0000 
+            Traversal Activity   Graded   1   1 100.00% 0.0100  1.0000 
+                  List Zippers Canceled n/a   1     n/a 0.0000  0.0000 
+             Quadratic Sorting Canceled n/a   1     n/a 0.0000  0.0000 
+------------------------------ -------- --- --- ------- ------ ------- 
+                         Total                   92.43% 1.0000 92.4324 

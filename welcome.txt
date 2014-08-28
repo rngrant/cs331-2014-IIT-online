@@ -1,0 +1,3 @@
+Repository created.
+And i think i know how to do this if i use the eclipse plugin
+now I know how to do this in anything. Yay Git!!!
